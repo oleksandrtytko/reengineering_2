@@ -21,7 +21,6 @@ public class Main {
     public static final String EMPTY_STRING = "";
     public static final int TOP_WORDS_TO_SHOW = 30;
 
-
     public static void main(String[] args) throws IOException {
 
         LocalDateTime startAppTime = LocalDateTime.now();
