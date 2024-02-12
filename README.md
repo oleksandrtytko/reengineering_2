@@ -1,5 +1,5 @@
 # reengineering_2
-
+Problems / code changes:
 1. Start variable must be renamed to startAppTime.
 2. Path "src/edu/pro/txt/harry.txt" must be moved to the constant HARRY_POTTER_TEXT_PATH_STRING.
 3. cleanText method must be deleted because it is not used and it repeats code in main method.
